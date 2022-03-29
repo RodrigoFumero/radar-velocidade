@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(39, 39, 177);
+    font: normal 15pt Arial;
+  }
+  
+  header {
+    color: white;
+    text-align: center;
+  }
+  
+  section {
+    background-color: white;
+    width: 500px;
+    padding: 15px;
+    border-radius: 10px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.432);
+  }
+  
+  footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  div {
+    text-align: center;
+    padding: 15px;
+  }
+
+  .campo {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.432);
+  }
+
+  .button {
+      font-size: 25px;
+      color: white;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      border-radius: 15px;
+      box-shadow: 3px 3px 3px rgba(5, 5, 5, 0.356);
+      background: rgba(39, 39, 177, 0.767);
+      padding: 15px;
+  }
+  
