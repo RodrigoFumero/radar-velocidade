@@ -18,4 +18,5 @@ let soma = 0
             } else { resultado.innerHTML = `Multa de ${pontos} pontos, HABILITAÇÃO SUSPENSA, motorista com ${soma} na habilitação.`
             }
         }
+          document.getElementById("txtVelocidade").value = ""
     }
